@@ -244,7 +244,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "lcsc"
+    ]
   },
   "meta": {
     "filename": "floraterm.kicad_pro",
@@ -326,6 +328,10 @@
     [
       "3fcab154-9951-4e3b-a2fc-1f8584ec05da",
       ""
+    ],
+    [
+      "789486e7-e491-44d2-9fb2-9acfcae49799",
+      "power_management"
     ]
   ],
   "text_variables": {}
