@@ -481,6 +481,22 @@
     [
       "2dc7a8d1-c3b1-4813-ac1c-86de7280db71",
       "RP2040"
+    ],
+    [
+      "8d8bd0c1-8978-4f10-8842-6faca07a52a8",
+      "M1s"
+    ],
+    [
+      "3148dda3-20a7-4185-bb52-1caea02f4493",
+      "Screen"
+    ],
+    [
+      "deca85fc-64a1-4764-97fc-a80ad0ed1352",
+      "Keyboard"
+    ],
+    [
+      "e5e9a194-c960-41bc-a08e-f2d25ec905d7",
+      "speaker"
     ]
   ],
   "text_variables": {}
